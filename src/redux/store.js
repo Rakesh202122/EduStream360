@@ -19,5 +19,5 @@ const store = configureStore({
 export default store
 
 // export const server = 'https://projectpalacebazaarserver.vercel.app/api/v1'
-// export const server = 'https://projectpalacebazaarserver.onrender.com/api/v1'
-export const server = 'http://localhost:4000/api/v1'
+export const server = 'https://edustream360server.onrender.com/api/v1'
+// export const server = 'http://localhost:4000/api/v1'
